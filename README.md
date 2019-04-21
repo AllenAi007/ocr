@@ -1,2 +1,2 @@
-# ocr
-try optical character recognition, python, open cv, tesseract
+# ocr optical character recognition
+Python, open cv, tesseract
